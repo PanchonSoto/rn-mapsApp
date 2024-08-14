@@ -1,4 +1,5 @@
 import { createStackNavigator } from '@react-navigation/stack';
+
 import { LoadingScreen } from '../screens/LoadingScreen/LoadingScreen';
 import { PermissionsScreen } from '../screens/PermissionsScreen/PermissionsScreen';
 import { MapScreen } from '../screens/MapScreen/MapScreen';
